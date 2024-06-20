@@ -1,0 +1,96 @@
+[2024-06-20T14:51:31.108+0530] {manager.py:469} INFO - Processing files using up to 1 processes at a time 
+[2024-06-20T14:51:31.112+0530] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2024-06-20T14:51:31.115+0530] {manager.py:471} INFO - Checking for new files in /mnt/d/Random Bin/Python/dynamic airflow dag/dags every 300 seconds
+[2024-06-20T14:51:31.119+0530] {manager.py:738} INFO - Searching for files in /mnt/d/Random Bin/Python/dynamic airflow dag/dags
+[2024-06-20T14:51:31.206+0530] {manager.py:741} INFO - There are 3 files in /mnt/d/Random Bin/Python/dynamic airflow dag/dags
+[2024-06-20T14:51:35.105+0530] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_1.py                           0           0
+/mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_3.py                           0           0
+/mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_2.py                           1           0  3.11s           2024-06-20T09:21:35
+================================================================================
+[2024-06-20T14:52:07.228+0530] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_1.py                           1           0  3.21s           2024-06-20T09:21:43
+/mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_2.py                           1           0  1.01s           2024-06-20T09:22:07
+/mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_3.py                           1           0  3.11s           2024-06-20T09:21:39
+================================================================================
+[2024-06-20T14:52:40.606+0530] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_1.py                           1           0  1.91s           2024-06-20T09:22:16
+/mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_2.py                           1           0  2.21s           2024-06-20T09:22:40
+/mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_3.py                           1           0  1.31s           2024-06-20T09:22:11
+================================================================================
+[2024-06-20T14:53:12.237+0530] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_1.py                           1           0  1.31s           2024-06-20T09:22:47
+/mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_2.py                           1           0  1.31s           2024-06-20T09:23:12
+/mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_3.py                           1           0  0.61s           2024-06-20T09:22:43
+================================================================================
+[2024-06-20T14:53:43.903+0530] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_1.py                           1           0  0.81s           2024-06-20T09:23:21
+/mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_2.py                           1           0  1.11s           2024-06-20T09:23:43
+/mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_3.py                           1           0  1.31s           2024-06-20T09:23:15
+================================================================================
+[2024-06-20T14:54:16.943+0530] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_1.py                           1           0  1.61s           2024-06-20T09:23:54
+/mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_2.py                           1           0  2.11s           2024-06-20T09:24:16
+/mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_3.py                           1           0  0.91s           2024-06-20T09:23:47
+================================================================================
+[2024-06-20T14:54:50.180+0530] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_1.py                           1           0  3.32s           2024-06-20T09:24:29
+/mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_2.py                           1           0  2.11s           2024-06-20T09:24:50
+/mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_3.py                           1           0  2.12s           2024-06-20T09:24:20
+================================================================================
+[2024-06-20T14:55:22.350+0530] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_1.py                           1           0  2.31s           2024-06-20T09:25:01
+/mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_2.py                           1           0  1.31s           2024-06-20T09:25:22
+/mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_3.py                           1           0  0.71s           2024-06-20T09:24:52
+================================================================================
+[2024-06-20T14:55:54.049+0530] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_1.py                           1           0  1.71s           2024-06-20T09:25:33
+/mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_2.py                           1           0  0.81s           2024-06-20T09:25:54
+/mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_3.py                           1           0  1.21s           2024-06-20T09:25:23
+================================================================================
+[2024-06-20T14:55:58.475+0530] {manager.py:451} INFO - Exiting gracefully upon receiving signal 15

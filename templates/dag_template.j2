@@ -1,0 +1,23 @@
+from airflow import DAG
+from airflow.operators.bash import BashOperator
+
+with DAG(
+    dag_id="{{dag["dag_id"]}}",
+    default_args={{dag["default_args"]}},
+    schedule_interval="{{dag["schedule_interval"]}}"
+) as dag:
+
+{% for task in dag["tasks"] %}
+    {{task["task_id"]}}=BashOperator(
+                task_id="{{task["task_id"]}}",
+                bash_command="{{task["bash_command"]}}",
+            )
+{% endfor %}
+
+{% for task in dag["tasks"] %}
+    {% if "upstream_task_ids" in task.keys() %}
+        {% for upstream_id in task["upstream_task_ids"] %}
+    {{task["task_id"]}}.set_upstream({{upstream_id}})
+        {% endfor %}
+    {% endif %}
+{% endfor %}

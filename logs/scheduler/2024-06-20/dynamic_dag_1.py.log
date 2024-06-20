@@ -1,0 +1,56 @@
+[2024-06-20T14:51:40.354+0530] {processor.py:161} INFO - Started process (PID=137) to work on /mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_1.py
+[2024-06-20T14:51:40.357+0530] {processor.py:830} INFO - Processing file /mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_1.py for tasks to queue
+[2024-06-20T14:51:40.362+0530] {logging_mixin.py:188} INFO - [2024-06-20T14:51:40.360+0530] {dagbag.py:538} INFO - Filling up the DagBag from /mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_1.py
+[2024-06-20T14:51:40.618+0530] {processor.py:840} INFO - DAG(s) 'dynamic_dag_1' retrieved from /mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_1.py
+[2024-06-20T14:51:42.706+0530] {logging_mixin.py:188} INFO - [2024-06-20T14:51:42.704+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-06-20T14:51:42.745+0530] {logging_mixin.py:188} INFO - [2024-06-20T14:51:42.743+0530] {dag.py:3823} INFO - Setting next_dagrun for dynamic_dag_1 to 2024-01-01 12:00:00+00:00, run_after=2024-01-02 12:00:00+00:00
+[2024-06-20T14:51:43.460+0530] {processor.py:183} INFO - Processing /mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_1.py took 3.112 seconds
+[2024-06-20T14:52:14.427+0530] {processor.py:161} INFO - Started process (PID=141) to work on /mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_1.py
+[2024-06-20T14:52:14.429+0530] {processor.py:830} INFO - Processing file /mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_1.py for tasks to queue
+[2024-06-20T14:52:14.434+0530] {logging_mixin.py:188} INFO - [2024-06-20T14:52:14.431+0530] {dagbag.py:538} INFO - Filling up the DagBag from /mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_1.py
+[2024-06-20T14:52:14.606+0530] {processor.py:840} INFO - DAG(s) 'dynamic_dag_1' retrieved from /mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_1.py
+[2024-06-20T14:52:14.871+0530] {logging_mixin.py:188} INFO - [2024-06-20T14:52:14.869+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-06-20T14:52:15.044+0530] {logging_mixin.py:188} INFO - [2024-06-20T14:52:15.042+0530] {dag.py:3823} INFO - Setting next_dagrun for dynamic_dag_1 to 2024-01-01 12:00:00+00:00, run_after=2024-01-02 12:00:00+00:00
+[2024-06-20T14:52:16.285+0530] {processor.py:183} INFO - Processing /mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_1.py took 1.861 seconds
+[2024-06-20T14:52:46.599+0530] {processor.py:161} INFO - Started process (PID=148) to work on /mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_1.py
+[2024-06-20T14:52:46.601+0530] {processor.py:830} INFO - Processing file /mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_1.py for tasks to queue
+[2024-06-20T14:52:46.605+0530] {logging_mixin.py:188} INFO - [2024-06-20T14:52:46.604+0530] {dagbag.py:538} INFO - Filling up the DagBag from /mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_1.py
+[2024-06-20T14:52:46.788+0530] {processor.py:840} INFO - DAG(s) 'dynamic_dag_1' retrieved from /mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_1.py
+[2024-06-20T14:52:47.664+0530] {logging_mixin.py:188} INFO - [2024-06-20T14:52:47.662+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-06-20T14:52:47.701+0530] {logging_mixin.py:188} INFO - [2024-06-20T14:52:47.700+0530] {dag.py:3823} INFO - Setting next_dagrun for dynamic_dag_1 to 2024-01-01 12:00:00+00:00, run_after=2024-01-02 12:00:00+00:00
+[2024-06-20T14:52:47.853+0530] {processor.py:183} INFO - Processing /mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_1.py took 1.258 seconds
+[2024-06-20T14:53:20.424+0530] {processor.py:161} INFO - Started process (PID=151) to work on /mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_1.py
+[2024-06-20T14:53:20.426+0530] {processor.py:830} INFO - Processing file /mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_1.py for tasks to queue
+[2024-06-20T14:53:20.430+0530] {logging_mixin.py:188} INFO - [2024-06-20T14:53:20.428+0530] {dagbag.py:538} INFO - Filling up the DagBag from /mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_1.py
+[2024-06-20T14:53:20.660+0530] {processor.py:840} INFO - DAG(s) 'dynamic_dag_1' retrieved from /mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_1.py
+[2024-06-20T14:53:20.874+0530] {logging_mixin.py:188} INFO - [2024-06-20T14:53:20.871+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-06-20T14:53:20.939+0530] {logging_mixin.py:188} INFO - [2024-06-20T14:53:20.936+0530] {dag.py:3823} INFO - Setting next_dagrun for dynamic_dag_1 to 2024-01-01 12:00:00+00:00, run_after=2024-01-02 12:00:00+00:00
+[2024-06-20T14:53:21.130+0530] {processor.py:183} INFO - Processing /mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_1.py took 0.711 seconds
+[2024-06-20T14:53:52.546+0530] {processor.py:161} INFO - Started process (PID=155) to work on /mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_1.py
+[2024-06-20T14:53:52.558+0530] {processor.py:830} INFO - Processing file /mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_1.py for tasks to queue
+[2024-06-20T14:53:52.562+0530] {logging_mixin.py:188} INFO - [2024-06-20T14:53:52.560+0530] {dagbag.py:538} INFO - Filling up the DagBag from /mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_1.py
+[2024-06-20T14:53:52.777+0530] {processor.py:840} INFO - DAG(s) 'dynamic_dag_1' retrieved from /mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_1.py
+[2024-06-20T14:53:53.191+0530] {logging_mixin.py:188} INFO - [2024-06-20T14:53:53.188+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-06-20T14:53:53.623+0530] {logging_mixin.py:188} INFO - [2024-06-20T14:53:53.621+0530] {dag.py:3823} INFO - Setting next_dagrun for dynamic_dag_1 to 2024-01-01 12:00:00+00:00, run_after=2024-01-02 12:00:00+00:00
+[2024-06-20T14:53:54.094+0530] {processor.py:183} INFO - Processing /mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_1.py took 1.552 seconds
+[2024-06-20T14:54:25.897+0530] {processor.py:161} INFO - Started process (PID=158) to work on /mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_1.py
+[2024-06-20T14:54:26.651+0530] {processor.py:830} INFO - Processing file /mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_1.py for tasks to queue
+[2024-06-20T14:54:26.665+0530] {logging_mixin.py:188} INFO - [2024-06-20T14:54:26.660+0530] {dagbag.py:538} INFO - Filling up the DagBag from /mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_1.py
+[2024-06-20T14:54:27.418+0530] {processor.py:840} INFO - DAG(s) 'dynamic_dag_1' retrieved from /mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_1.py
+[2024-06-20T14:54:27.729+0530] {logging_mixin.py:188} INFO - [2024-06-20T14:54:27.726+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-06-20T14:54:27.795+0530] {logging_mixin.py:188} INFO - [2024-06-20T14:54:27.793+0530] {dag.py:3823} INFO - Setting next_dagrun for dynamic_dag_1 to 2024-01-01 12:00:00+00:00, run_after=2024-01-02 12:00:00+00:00
+[2024-06-20T14:54:29.082+0530] {processor.py:183} INFO - Processing /mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_1.py took 3.196 seconds
+[2024-06-20T14:54:59.524+0530] {processor.py:161} INFO - Started process (PID=161) to work on /mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_1.py
+[2024-06-20T14:54:59.527+0530] {processor.py:830} INFO - Processing file /mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_1.py for tasks to queue
+[2024-06-20T14:54:59.530+0530] {logging_mixin.py:188} INFO - [2024-06-20T14:54:59.529+0530] {dagbag.py:538} INFO - Filling up the DagBag from /mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_1.py
+[2024-06-20T14:54:59.749+0530] {processor.py:840} INFO - DAG(s) 'dynamic_dag_1' retrieved from /mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_1.py
+[2024-06-20T14:55:00.223+0530] {logging_mixin.py:188} INFO - [2024-06-20T14:55:00.221+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-06-20T14:55:00.355+0530] {logging_mixin.py:188} INFO - [2024-06-20T14:55:00.353+0530] {dag.py:3823} INFO - Setting next_dagrun for dynamic_dag_1 to 2024-01-01 12:00:00+00:00, run_after=2024-01-02 12:00:00+00:00
+[2024-06-20T14:55:01.714+0530] {processor.py:183} INFO - Processing /mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_1.py took 2.194 seconds
+[2024-06-20T14:55:31.907+0530] {processor.py:161} INFO - Started process (PID=164) to work on /mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_1.py
+[2024-06-20T14:55:31.910+0530] {processor.py:830} INFO - Processing file /mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_1.py for tasks to queue
+[2024-06-20T14:55:31.915+0530] {logging_mixin.py:188} INFO - [2024-06-20T14:55:31.912+0530] {dagbag.py:538} INFO - Filling up the DagBag from /mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_1.py
+[2024-06-20T14:55:32.127+0530] {processor.py:840} INFO - DAG(s) 'dynamic_dag_1' retrieved from /mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_1.py
+[2024-06-20T14:55:32.339+0530] {logging_mixin.py:188} INFO - [2024-06-20T14:55:32.338+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-06-20T14:55:32.388+0530] {logging_mixin.py:188} INFO - [2024-06-20T14:55:32.386+0530] {dag.py:3823} INFO - Setting next_dagrun for dynamic_dag_1 to 2024-01-01 12:00:00+00:00, run_after=2024-01-02 12:00:00+00:00
+[2024-06-20T14:55:33.496+0530] {processor.py:183} INFO - Processing /mnt/d/Random Bin/Python/dynamic airflow dag/dags/dynamic_dag_1.py took 1.596 seconds
